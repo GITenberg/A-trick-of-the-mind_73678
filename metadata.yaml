@@ -1,0 +1,30 @@
+_repo: A-trick-of-the-mind_73678
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salton, William P.
+    gutenberg_agent_id: '33728'
+    url: http://www.gutenberg.org/2009/agents/33728
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73678'
+language: en
+pgterms:marc905: 20240320174247salton
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Psychic ability -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A trick of the mind
+url: http://www.gutenberg.org/ebooks/73678
